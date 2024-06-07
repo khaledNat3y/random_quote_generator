@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:random_quote_generator/ui/screens/home.dart';
+import 'package:random_quote_generator/ui/screens/home/home.dart';
 
 void main() {
   runApp(const MyApp());
